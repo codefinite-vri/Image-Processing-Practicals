@@ -47,4 +47,4 @@ System.out.println("Writing complete.");
 </pre>
 
 <b>OUTPUT</b><br/>
-<img src="images/ip1">
+<img src="images/ip1.png">
