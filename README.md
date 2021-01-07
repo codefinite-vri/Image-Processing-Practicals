@@ -52,8 +52,34 @@ System.out.println("Writing complete.");
 ## EXPERIMENT 2
 Various classes like Labels, panels, buttons are used to create the GUI. Most of it is worked on using the Drag and Drop Functionality. Formating and editing can be done using coding.
 <br/>
+<b>OUTPUT</b><br/>
 <img src="images/ip2a.png">
 <img src="images/ip2b.png">
 <img src="images/ip2c.png">
 <img src="images/ip2d.png">
 <img src="images/ip2e.png">
+
+
+## EXPERIMENT 3
+An RGB image can be converted to grayscale by converting each pixel to its grayscale intensity. There are 2 methods to do this. The use of in-built functions or not is your choice.
+<pre>
+BufferedImage GrayScaleAction(java.awt.event.ActionEvent evt, File f, BufferedImage img){
+        int width = img.getWidth();
+        int height = img.getHeight();
+        for (int y = 0; y < height; y++) {
+            for (int x = 0; x < width; x++) {
+                int p = img.getRGB(x, y);
+                int alpha = (p >> 24) & 0xff;
+                int r = (p >> 16) & 0xff;
+                int g = (p >> 8) & 0xff;
+                int b = p & 0xff;
+                int gray = (int) (0.216 * r + 0.7152 * g + 0.0722 * b);
+                p = (y << 24) | (gray << 16) | (gray << 8) | gray;
+                img.setRGB(x, y, p);
+            }
+        }
+        return img;
+    }
+</pre>
+<b>OUTPUT</b><br/>
+<img src="images/ip3.png">
