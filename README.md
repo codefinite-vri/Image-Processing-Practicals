@@ -48,3 +48,12 @@ System.out.println("Writing complete.");
 
 <b>OUTPUT</b><br/>
 <img src="images/ip1.png">
+
+## EXPERIMENT 2
+Various classes like Labels, panels, buttons are used to create the GUI. Most of it is worked on using the Drag and Drop Functionality. Formating and editing can be done using coding.
+<br/>
+<img src="images/ip2a.png">
+<img src="images/ip2b.png">
+<img src="images/ip2c.png">
+<img src="images/ip2d.png">
+<img src="images/ip2e.png">
