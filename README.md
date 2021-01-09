@@ -15,7 +15,8 @@ Java Editor (Intellij Idea is most preferred)
   <li>Read and Write an Image in Java</li>
   <li>Create a GUI using Java</li>
   <li>Grayscale Conversion</li>
-  <li>Gray Level Slicing</li>
+  <li>Gray Level Slicing (Lowering background)li>
+  <li>Gray Level Slicing (Retaining background)li>
   <li>Bit Plane Slicing</li>
   <li>Contrast Stretching</li>
   <li>Image Smoothing</li>
@@ -83,3 +84,19 @@ BufferedImage GrayScaleAction(java.awt.event.ActionEvent evt, File f, BufferedIm
 </pre>
 <b>OUTPUT</b><br/>
 <img src="images/ip3.png">
+
+## EXPERIMENT 4
+<b>OUTPUT</b><br/>
+<img src="images/ip4a.png">
+<img src="images/ip4b.png">
+<img src="images/ip4c.png">
+<img src="images/ip4d.png">
+<img src="images/ip4e.png">
+
+## EXPERIMENT 5
+<b>OUTPUT</b><br/>
+<img src="images/ip5a.png">
+<img src="images/ip5b.png">
+<img src="images/ip5c.png">
+<img src="images/ip5d.png">
+<img src="images/ip5e.png">
