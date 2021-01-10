@@ -100,3 +100,15 @@ BufferedImage GrayScaleAction(java.awt.event.ActionEvent evt, File f, BufferedIm
 <img src="images/ip5c.png">
 <img src="images/ip5d.png">
 <img src="images/ip5e.png">
+
+## EXPERIMENT 6
+Bit-Plane Slicing is a technique in which the image is sliced at different planes. It ranges from Bit level 0 which is the least significant bit (LSB) to Bit level 7 which is the most significant bit (MSB). The input to this method is an 8-bit per pixel image.
+<br/>
+<b>OUTPUT</b><br/>
+<img src="images/ip6a.png">
+<img src="images/ip6b.png">
+<img src="images/ip6c.png">
+<img src="images/ip6d.png">
+<img src="images/ip6e.png">
+<img src="images/ip6f.png">
+<img src="images/ip6g.png">
