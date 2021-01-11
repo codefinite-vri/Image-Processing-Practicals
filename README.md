@@ -115,3 +115,27 @@ Bit-Plane Slicing is a technique in which the image is sliced at different plane
 <img src="images/ip6e.png">
 <img src="images/ip6f.png">
 <img src="images/ip6g.png">
+
+## EXPERIMENT 7
+Contrast stretching (often called normalization) is a simple image enhancement technique that attempts to improve the contrast in an image by 'stretching' the range of intensity values it contains to span a desired range of values, the full range of pixel values that the image type concerned allows.
+<br/>
+<b>OUTPUT</b><br/>
+<img src="images/ip7a.png"><img src="images/ip7b.png">
+
+## EXPERIMENT 8
+One of the most commonly used filters in graphics is the box filter (and, in fact, when filtering and reconstruction aren’t addressed explicitly, the box filter is the de facto result). The box filter equally weights all samples within a square region of the image. Although computationally efficient, it’s just about the worst filter possible. A nxn Box filter is a nxn matrix with each element = 1/n^2
+<br/>
+<b>OUTPUT</b><br/>
+<img src="images/ip8.png">
+
+## EXPERIMENT 9
+In weighted average filter, we gave more weight to the center value, due to which the contribution of center becomes more than the rest of the values. Due to weighted average filtering, we can control the blurring of image. 
+<br/>
+<b>OUTPUT</b><br/>
+<img src="images/ip9.png">
+
+## EXPERIMENT 10
+The median filter is a non-linear digital filtering technique, often used to remove noise from an image or signal. Such noise reduction is a typical pre-processing step to improve the results of later processing (for example, edge detection on an image).
+<br/>
+<b>OUTPUT</b><br/>
+<img src="images/ip10.png">
