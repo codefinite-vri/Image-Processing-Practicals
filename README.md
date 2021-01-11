@@ -19,6 +19,9 @@ Java Editor (Intellij Idea is most preferred)
   <li>Gray Level Slicing (Retaining background)li>
   <li>Bit Plane Slicing</li>
   <li>Contrast Stretching</li>
+  <li>Box Filter</li>
+  <li>Weighted Average Filter</li>
+  <li>Median Filter</li>
   <li>Image Smoothing</li>
   <li>Image Sharpening</li>
   <li>Histogram of an Image</li>
