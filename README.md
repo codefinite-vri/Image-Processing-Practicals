@@ -143,16 +143,16 @@ The median filter is a non-linear digital filtering technique, often used to rem
 
 ## EXPERIMENT 11 - Laplacian Filter
 <b>OUTPUT</b><br/>
-<img src="images/ip011.png">
+<img src="images/img011.png">
 
 ## EXPERIMENT 12 - Sobel Filter
 <b>OUTPUT</b><br/>
-<img src="images/ip012.png">
+<img src="images/img012.png">
 
 ## EXPERIMENT 13 - Prewitt Filter
 <b>OUTPUT</b><br/>
-<img src="images/ip013.png">
+<img src="images/img013.png">
 
 ## EXPERIMENT 14 - Histogram Filter
 <b>OUTPUT</b><br/>
-<img src="images/ip014.png">
+<img src="images/img014.png">
