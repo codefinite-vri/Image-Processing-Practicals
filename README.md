@@ -15,8 +15,8 @@ Java Editor (Intellij Idea is most preferred)
   <li>Read and Write an Image in Java</li>
   <li>Create a GUI using Java</li>
   <li>Grayscale Conversion</li>
-  <li>Gray Level Slicing (Lowering background)li>
-  <li>Gray Level Slicing (Retaining background)li>
+  <li>Gray Level Slicing (Lowering background)</li>
+  <li>Gray Level Slicing (Retaining background)</li>
   <li>Bit Plane Slicing</li>
   <li>Contrast Stretching</li>
   <li>Box Filter</li>
