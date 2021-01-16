@@ -156,3 +156,8 @@ The median filter is a non-linear digital filtering technique, often used to rem
 ## EXPERIMENT 14 - Histogram Filter
 <b>OUTPUT</b><br/>
 <img src="images/img014.png">
+
+## EXPERIMENT 14 - Histogram Equalization
+<b>OUTPUT</b><br/>
+<img src="images/ip15a.png">
+<img src="images/ip15b.png">
