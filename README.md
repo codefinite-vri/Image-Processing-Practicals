@@ -1,6 +1,6 @@
 # Image Processing Practicals
 
-These are the set of practicals done under the course of Image Processing at colleges affiliated to the Goa University. These are done using a GUI (Graphical User Interface) which helps to observe the results in a more efficient way. 
+These are the set of practicals done under the course of Image Processing at colleges affiliated to the Goa University. These are all done in Java using a GUI (Graphical User Interface) which helps to observe the results in a more efficient way. 
 
 ## Getting Started
 
