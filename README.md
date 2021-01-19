@@ -158,7 +158,27 @@ The median filter is a non-linear digital filtering technique, often used to rem
 <b>OUTPUT</b><br/>
 <img src="images/img014.png">
 
-## EXPERIMENT 14 - Histogram Equalization
+## EXPERIMENT 15 - Histogram Equalization
 <b>OUTPUT</b><br/>
 <img src="images/ip15a.png">
 <img src="images/ip15b.png">
+
+## EXPERIMENT 16 - Optimal Thresholding
+<b>OUTPUT</b><br/>
+<img src="images/ip16.png">
+
+## EXPERIMENT 17 - Grayscale Erosion
+<b>OUTPUT</b><br/>
+<img src="images/ip17a.png">
+<img src="images/ip17b.png">
+
+## EXPERIMENT 18 - Grayscale Dilation
+<b>OUTPUT</b><br/>
+<img src="images/ip18a.png">
+<img src="images/ip18b.png">
+
+## EXPERIMENT 19 - Segmentation: Virtual Laboratory
+<b>OUTPUT</b><br/>
+<img src="images/ip19a.png">
+<img src="images/ip19b.png">
+<img src="images/ip19c.png">
