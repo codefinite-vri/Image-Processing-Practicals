@@ -29,6 +29,7 @@ Java Editor (Intellij Idea is most preferred)
   <li>Histogram Equalization</li>
   <li>Optimal Thresholding</li>
   <li>Grayscale Erosion</li>
+  <li>Grayscale Dilation</li>
   <li>Virtual Laboratory - Image Segmentation</li>
 </ul>
 
